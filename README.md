@@ -1,6 +1,6 @@
 GitHubTraining
 ==============
 
-Repository for delivering GitHub training
+<img src="https://assets-cdn.github.com/images/modules/logos_page/Octocat.png">
 
----11111
+Repository for delivering GitHub training
